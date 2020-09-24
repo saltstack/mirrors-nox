@@ -1,0 +1,8 @@
+-   id: nox
+    name: nox
+    entry: nox
+    language: python
+    'types': [python]
+    args: ["-i"]
+    require_serial: false
+    additional_dependencies: []
