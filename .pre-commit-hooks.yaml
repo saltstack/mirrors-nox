@@ -2,7 +2,7 @@
     name: nox
     entry: nox
     language: python
-    language_version: python3
+    'types': [file]
     args: []
-    require_serial: true
+    require_serial: false
     additional_dependencies: []
